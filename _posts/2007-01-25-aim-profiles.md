@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AIM Profiles
-created: 1169695980
+created: 2007-01-25
 ---
 <p>I have spent quite some time on the wonderful world of AOL Instant Messenger. One thing that I love doing is snooping on people&#39;s profiles. People can enter anything they want about themselves; no prompts, no criteria. You don&#39;t know who is looking at your profile, so you better put something good in it.<br />
 	<br />

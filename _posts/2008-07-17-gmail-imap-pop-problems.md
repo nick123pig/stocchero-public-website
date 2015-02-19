@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gmail IMAP/POP problems
-created: 1216262280
+created: 2008-07-17
 ---
 <p>I encountered a weird issue today.<br />
 	<br />

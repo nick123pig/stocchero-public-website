@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The HD-DVD Saga
-created: 1178159880
+created: 2007-05-03
 ---
 <p>Personally, I think this is the funniest story to hit the internet in a LONG time. Just because I am a nerd<br />
 	<br />

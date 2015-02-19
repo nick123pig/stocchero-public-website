@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Bureaucracy
-created: 1172634180
+created: 2007-02-28
 ---
 <p>So today: Lunch. Boy gosh golly, I love lunch. I walk into Taco Bell. Boy gosh golly am I hungry! But as I walked in, something disturbed me. (And it wasn&#39;t the gigantic bag of radioactive chicken they were pouring into the pressure cooker)<br />
 	<br />

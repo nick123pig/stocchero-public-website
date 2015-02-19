@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Republican Elections
-created: 1199847960
+created: 2008-01-09
 ---
 <p><a href="http://stocchero.net/sites/default/files/sites/default/files/blogger_importer/s1600-h/poll.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5153308382354087458" src="http://stocchero.net/sites/default/files/sites/default/files/blogger_importer/s400/poll.JPG" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" /></a><br />
 	Something that I do not get.<br />

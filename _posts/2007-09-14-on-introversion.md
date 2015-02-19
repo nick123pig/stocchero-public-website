@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Introversion
-created: 1189748100
+created: 2007-09-14
 ---
 <p>FMP<br />
 	<br />

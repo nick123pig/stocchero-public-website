@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Rational And Irrational Numbers
-created: 1325034832
+created: 2011-12-28
 ---
 <p><h2>Abstract</h2></p>
 <p>The purpose of this essay shall be to examine the differences and similarities between the set of rational numbers, $\mathbb{Q}$ and the set of irrational numbers.  We shall also examine some proofs of how both sets are dense in the set of real numbers, $\mathbb{R}$. </p>

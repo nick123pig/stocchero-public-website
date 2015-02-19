@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Proving Trig Identities
-created: 1328713211
+created: 2012-02-08
 ---
 $$1) \sec t - \tan x \sin x = \frac{1}{\sec x}$$
 $$\frac{1}{\cos t}-\frac{\sin t}{\cos t}\frac{\sin t}{1}=$$

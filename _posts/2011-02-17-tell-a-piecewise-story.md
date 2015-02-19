@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tell a Piecewise Story
-created: 1297985100
+created: 2011-02-17
 ---
 <div>
 	Sinclair, N. and Armstrong, A. (2011). Tell a Piecewise Story. Mathematics teaching in the middle school, 16(6). <a href="http://nctm.org/eresources/view_media.asp?article_id=9587">Link</a></div>

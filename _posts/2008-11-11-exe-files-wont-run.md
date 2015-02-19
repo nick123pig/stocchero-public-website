@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EXE files won't run
-created: 1226394540
+created: 2008-11-11
 ---
 <p>I came across the one of the strangest problems I&#39;ve ever encountered last night.<br />
 	<br />

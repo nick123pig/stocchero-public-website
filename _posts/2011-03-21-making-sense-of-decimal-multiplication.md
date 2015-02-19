@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making Sense of Decimal Multiplication
-created: 1300746960
+created: 2011-03-21
 ---
 <p>I found the journal article about decimal multiplication to be very interesting. Novice Teaching in an 8th grade classroom has given me keen insight into this very topic. Most students in my 8th grade class do not know how to multiply decimals. The article says that in grade school, students are taught a series of rules and procedures for multiplying. Then, they learn &quot;tricks&quot; to help them multiply decimals. For example, students learn to multiply decimals without any decimals, and then at the end, move the decimal point is moved however many places to the left in the product. Many students don&#39;t understand why that trick works, and therefore, they forget how to multiply the decimals.</p>
 <div>

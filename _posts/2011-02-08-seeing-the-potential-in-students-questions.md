@@ -2,7 +2,7 @@
 layout: post
 title: !binary |-
   U2VlaW5nIHRoZSBwb3RlbnRpYWwgaW4gc3R1ZGVudHOSIHF1ZXN0aW9ucw==
-created: 1297143240
+created: 2011-02-08
 ---
 <div>
 	Reading the journal article about seeing the potential in students&#39; questions really emphasized the need for good communication from mathematics students and teachers.</div>

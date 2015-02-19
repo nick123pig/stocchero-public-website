@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cullumcomic II
-created: 1180411260
+created: 2007-05-29
 ---
 <p>The next edition in the Stocchero Comic Series...<br />
 	<br />

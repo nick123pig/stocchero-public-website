@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Death Wishes
-created: 1169696520
+created: 2007-01-25
 ---
 <p>Dying:<br />
 	My death wishes<br />

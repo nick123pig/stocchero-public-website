@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reasoning and Sense Making: Algebra'
-created: 1296537120
+created: 2011-02-01
 ---
 <p>As algebra is most likely the first high school math class a student will take, there will be much development that a student will have to make in terms of reasoning or sense making. Initially, one might think that each specific scenario will be very separate from other scenarios, but as the book points out, this is not true. Many reasoning arguments revolve around the same basic concepts, and then use previous reasoning arguments to check work.</p>
 <div>

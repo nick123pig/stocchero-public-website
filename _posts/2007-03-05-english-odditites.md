@@ -1,7 +1,7 @@
 ---
 layout: post
 title: English Odditites
-created: 1173061200
+created: 2007-03-05
 ---
 <p>CHECK OUT THESE ENGLISH ODDITIES!</p>
 <p>MY FAVORITE IS NUMBER 4</p>

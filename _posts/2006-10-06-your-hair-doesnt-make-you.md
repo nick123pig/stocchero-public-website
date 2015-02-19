@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Hair Doesn't Make You
-created: 1160110260
+created: 2006-10-06
 ---
 <p>Hair.<br />
 	When I go to cut my hair.<br />

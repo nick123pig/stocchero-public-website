@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skills USA
-created: 1183245960
+created: 2007-07-01
 ---
 <p><span style="font-size: 100%; ">Danger</span></p>
 <p><span style="font-size:100%;">This blog post contains large amounts of nerd.<br />

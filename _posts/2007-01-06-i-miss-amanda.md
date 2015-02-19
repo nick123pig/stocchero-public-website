@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Miss Amanda
-created: 1168057380
+created: 2007-01-06
 ---
 <p><span style="background-color: rgb(255, 255, 255); font-family: Helvetica, Arial, Verdana, sans-serif; font-size: 11px; line-height: 13px; ">Miss You Amanda!</span></p>
 <blockquote>

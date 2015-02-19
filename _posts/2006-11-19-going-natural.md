@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Going Natural
-created: 1163980200
+created: 2006-11-19
 ---
 <p>So my main computer crashed, and I thought that it would keep me off the computer, but I am just magnetized to be at a computer!<br />
 	<br />

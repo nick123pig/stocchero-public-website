@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My New Closet Lighting
-created: 1168906800
+created: 2007-01-16
 ---
 <p>Basking in the darkness of my closet, I decided to do something about it today. So I went down to the local hardware store, and bought my supplies. (On a side note, If I ever wanted to get stuck somewhere, I would want to get stuck in a hardware store.) So I got myself a ladder, and did some extreme electrical work.<br />
 	The Result.<br />

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Error Analysis
-created: 1301955360
+created: 2011-04-04
 ---
 <p>After completing the two error analysis assignments and discussing the assignments with my classmates, I have a few reflections to share.</p>
 <div>

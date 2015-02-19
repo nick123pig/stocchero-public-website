@@ -25,6 +25,21 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+.back-link {
+    text-align: left;
+    margin-top: 15px;
+    font-size: 20px;
+    color: #fff;
+    background: 0 0;
+    transition: all .3s ease-in-out;
+}
+
+
+.back-link a,a:active {
+    outline: 0;
+    color: #CCC;
+}
+
 h1,
 h2,
 h3,
@@ -88,6 +103,11 @@ header {
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
+}
+
+header .secondary {
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 header img {

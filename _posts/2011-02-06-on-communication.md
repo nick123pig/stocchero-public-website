@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Communication
-created: 1297025100
+created: 2011-02-06
 ---
 <p>Communication is one of the most essential pieces of education; especially in mathematics education. Without communication, there is no education. In order to grow as a student of mathematics, students must be able to communicate concepts and ideas clearly. Many important points about communication in mathematics education are brought up in the journal article <a href="http://nctm.org/standards/content.aspx?id=3484">Communication</a>, published by the National Council of Teachers of Mathematics. Reading the article, I found that the three most important points seemed to be: organization and consolidation of mathematical ideas through communication, the use of technology to aid mathematical communication, and the use of mathematical language to express mathematical ideas precisely.</p>
 <div>

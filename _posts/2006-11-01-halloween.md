@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Halloween
-created: 1162355640
+created: 2006-11-01
 ---
 <p>Sometimes we forget the true meaning of Halloween, so I made a handy reference sheet for you to print out and hang on your fridge.<br />
 	<br />

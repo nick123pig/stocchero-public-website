@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Hallway
-created: 1173749040
+created: 2007-03-13
 ---
 <p><span style="font-size:100%;">This was on my mind today - I told this to like 4 different people today<br />
 	<br />

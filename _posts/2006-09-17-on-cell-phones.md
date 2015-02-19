@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Cell Phones
-created: 1158527280
+created: 2006-09-17
 ---
 <p>Here is one thing I am really passionate about. Cell Phones! Boy Do I HATE Cell Phones! That&#39;s right! I hate them for two reasons. Number One, Mine really sucks, so I can never get called, or call anyone. <span style="font-style: italic;">(If you ever get a cell phone, NEVER get Nextel)</span><br />
 	<br />

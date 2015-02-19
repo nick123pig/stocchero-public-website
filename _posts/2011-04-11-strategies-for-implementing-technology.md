@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strategies for Implementing Technology
-created: 1302495180
+created: 2011-04-11
 ---
 <p>I really enjoyed reading this article, as it is aligned to my interests. The article points out how very often students forget the content of the lesson, and remember simply the technology. Instead of &quot;how do I solve this systems of equations?&quot;, the student will ask &quot;what button do I press to get the answer?&quot; The article offers tangible ways that you can prevent these sorts of situations from happening.</p>
 <div>

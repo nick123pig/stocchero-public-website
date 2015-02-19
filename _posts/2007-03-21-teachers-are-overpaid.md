@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teachers are Overpaid
-created: 1174435320
+created: 2007-03-21
 ---
 <p>I, for one, am sick and tired of those high paid teachers. Their hefty salaries are driving up taxes, and they only work nine or ten months a year! It&#39;s time we put things in perspective and pay them for what they do... baby-sit!<br />
 	We can get that for less than minimum wage. That&#39;s right...I would give them \$3.00 an hour and only for the hours they worked, not any of that silly planning time. That would be \$18 a day. Each parent should pay $18 a day for these teachers to baby-sit their children. Now, how many do they teach in a day.... maybe 20?<br />

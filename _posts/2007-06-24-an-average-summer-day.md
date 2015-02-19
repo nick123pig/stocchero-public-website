@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Average Summer Day
-created: 1182710160
+created: 2007-06-24
 ---
 <p>And now..... Ahem.....I give you......Ahem Ahem....What my Average Summer Day Consists Of!<br />
 	<br />

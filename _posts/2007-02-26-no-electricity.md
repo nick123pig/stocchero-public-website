@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Electricity
-created: 1172533560
+created: 2007-02-26
 ---
 <p>So yesterday, I was sitting on the couch, reading my book. It was about 10:00, when all of a sudden, I heard a gigantic boom outside. Cool right? Well about 2 seconds later, we lost all electricity. There were no survivors.<br />
 	<br />

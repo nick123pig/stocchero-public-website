@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Humility
-created: 1180411320
+created: 2007-05-29
 ---
 <p>Cheese! I finally have some time to sit down and blog it up. Since my last blog, I have graduated high school, gotten a haircut, grilled 67 cheeseburgers, received 42 greeting cards, and added 55 more songs to <span class="blsp-spelling-error" id="SPELLING_ERROR_0">iTunes</span>!<br />
 	<br />

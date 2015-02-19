@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Designing mathematical learning environments for teachers
-created: 1296422460
+created: 2011-01-30
 ---
 <div>
 	After reading the article by Sandra Madden, I was somewhat annoyed when she stated that teachers frequently teach technology rather than teach mathematics using the technology as a tool. I believe that this illustrates an important concept regarding the principle of teaching: there must be mathematical goals that guide the learning of an effective teacher&#39;s classroom.<br />

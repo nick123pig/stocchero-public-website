@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laguna Beach
-created: 1162178220
+created: 2006-10-30
 ---
 <p>There is no telling how much I hate the show Laguna Beach. It is SO BAD! Worst show ever in the history of the world. If you want to know where teenagers get their cocky, spoiled, and lazy attitudes, your compass would point directly at this stupid show.</p>
 <p>#1) It fake. The show begins by saying, &quot;This show is the real life of teenagers blah blah....&quot; WRONG! Nothing is real when you have a full camera crew putting your every word under a microscope. I would pay everyone 5 cents if the show is real. NO WAY that it is real. 0% chance that is real.</p>

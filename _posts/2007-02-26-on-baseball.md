@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Baseball
-created: 1172534160
+created: 2007-02-26
 ---
 <p>It finally hit me. It was time. At 4:30 AM, there is not much else that I normally <span class="blsp-spelling-error" id="SPELLING_ERROR_0">am</span> thinking about except sleep. But not today! Baseball season begins!<br />
 	There is nothing that I would rather do than run suicides at 5:15 AM. There is nothing that I would rather do than take baseballs to the chest at 5:45 AM. Seriously!<br />

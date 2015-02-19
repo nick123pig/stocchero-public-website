@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Washers and Dryers
-created: 1169506620
+created: 2007-01-22
 ---
 <p>So I was doing my wash yesterday, and I asked myself an important question. One that could scientifically alter the course of history.<br />
 	Why are the washing machine and dryer separate entities?<br />

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Public Relations
-created: 1162958700
+created: 2006-11-08
 ---
 <p>I am fortunate to work around computers a lot. I have one beef with the industry however.<br />
 	Windows is the operating system made by Microsoft. It costs a lot of money (around $200.00)<br />

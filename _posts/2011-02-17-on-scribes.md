@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Scribes
-created: 1297983360
+created: 2011-02-17
 ---
 <div>
 	Harless, P. (2011). Scribing: A Technology-Based Instructional Strategy. Mathematics teacher, 104(6), <a href="http://www.nctm.org/eresources/view_media.asp?article_id=9569">link</a></div>

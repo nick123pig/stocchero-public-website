@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latex Exam
-created: 1299389640
+created: 2011-03-06
 ---
 <p>For those mathematics teachers looking to write exams in LaTeX, I have attached a latex source file that serves as a good starting point for writing your exams.</p>
 <div>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Being Alone
-created: 1171830600
+created: 2007-02-18
 ---
 <p>Morning Story<br />
 	<br />

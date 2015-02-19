@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Arsenal
-created: 1226397060
+created: 2008-11-11
 ---
 <p>Here is what I carry on my flash drive at all times<br />
 	- <a href="http://www.trendsecure.com/portal/en-US/_download/HiJackThis.exe">HiJackThis</a><br />

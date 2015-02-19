@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alternative approaches to traditional topics in algebra
-created: 1296421440
+created: 2011-01-30
 ---
 <div>
 	Reading the article about Alternative approaches to traditional topics in algebra really made me think critically about the concept of being flexible to student input as it relates to the principle of teaching.</div>

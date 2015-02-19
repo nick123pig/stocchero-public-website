@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Funny Parking Story
-created: 1171338060
+created: 2007-02-13
 ---
 <p>Let me tell you, my loyal reader, about my fun filled exciting experience with the Naperville Central parking lot today. Like most stories, it requires some history.<br />
 	<br />

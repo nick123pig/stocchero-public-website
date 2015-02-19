@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Happiness
-created: 1215828360
+created: 2008-07-12
 ---
 <p><span style="font-weight: bold;">Is happiness living in the moment with dignity?</span>Many people could debate the meaning of happiness. Some people could argue that money is the root of all happiness, and I know quite a few people who believe that. Some could argue that selfless volunteerism is their ideal happiness. Some people could argue, as the question suggests, that happiness is living in the moment with dignity.<br />
 	<br />

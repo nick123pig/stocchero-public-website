@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pick a Size
-created: 1162146420
+created: 2006-10-29
 ---
 <p><a href="http://pics.drugstore.com/prodimg/138527/200.jpg" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" src="http://pics.drugstore.com/prodimg/138527/200.jpg" style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 200px;" /></a></p>
 <br />

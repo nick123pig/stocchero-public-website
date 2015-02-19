@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Integer Operations Using A Whiteboard
-created: 1302494940
+created: 2011-04-11
 ---
 <p>The article that I looked at in the <i>Mathematics Teaching in the Middle School</i> was an article about how teachers can use an interactive whiteboard to improve instruction. First, the article points out the numerous advantages to using an interactive whiteboard. These advantages include the ability to manipulate graphics, ability to save and share whiteboard drawings, and the ability to erase the whiteboard quickly.</p>
 <div>

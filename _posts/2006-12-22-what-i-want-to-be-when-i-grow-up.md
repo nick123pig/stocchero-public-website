@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I Want to be When I Grow Up
-created: 1166762040
+created: 2006-12-22
 ---
 <p>Pertaining to what I want to be when I grow up, I would have to say that there is a large spectrum of where I could fit in. Let&#39;s first start with what I <span style="font-weight: bold;">don&#39;t</span> want to be:<br />
 	<br />

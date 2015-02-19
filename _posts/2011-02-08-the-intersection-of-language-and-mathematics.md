@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The intersection of language and mathematics
-created: 1297144740
+created: 2011-02-08
 ---
 <div>
 	<div>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Hard Work
-created: 1181096820
+created: 2007-06-06
 ---
 <p>This post is courtesy of the hardest working man in show business - Simon Cowell! Lets get a picture of him to lighten the mood.<br />
 	<br />

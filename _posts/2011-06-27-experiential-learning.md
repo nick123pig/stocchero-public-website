@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Experiential Learning
-created: 1309153200
+created: 2011-06-27
 ---
 <p>I&#39;ve been alive for 22 years now, and I&#39;ve spent a good part of my time of life in a classroom. Recently I&#39;ve been thinking about my retention of everything I&#39;ve learned. For example....I took a class about Latin American history last semester. Do I remember anything about it? Nope. The reason was probably because the teacher lectured and talked about her love for Latin America. So here is my groundbreaking theme for this post. I don&#39;t learn things well unless I actually do them myself. I learn things even better if I fail and screw up.<br />
 	<br />

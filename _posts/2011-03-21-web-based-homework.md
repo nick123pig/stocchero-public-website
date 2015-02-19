@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Based Homework
-created: 1300747920
+created: 2011-03-21
 ---
 <p>The article I read in <i>Mathematics Teacher</i> was about web-based homework. This is a topic I am sorely interested in. Rather than looking at what technology was available, the journal article examined if using web based homework was actually helping students perform better on exams.</p>
 <div>

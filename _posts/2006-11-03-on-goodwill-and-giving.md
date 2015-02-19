@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Goodwill and Giving
-created: 1162523160
+created: 2006-11-03
 ---
 <p>Before I start this blog: A Disclaimer ------ I normally always give my change to homeless people in the city.<br />
 	<br />

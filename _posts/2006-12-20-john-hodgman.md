@@ -1,7 +1,7 @@
 ---
 layout: post
 title: John Hodgman
-created: 1166587260
+created: 2006-12-20
 ---
 <p>I Have Found The Answer to every single problem in the world! DRY HUMOR!!!!<br />
 	<br />

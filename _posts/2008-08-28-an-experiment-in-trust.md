@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Experiment in Trust
-created: 1219933620
+created: 2008-08-28
 ---
 <p>An experiment in trust<br />
 	<br />

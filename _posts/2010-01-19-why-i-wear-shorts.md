@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I Wear Shorts
-created: 1263943200
+created: 2010-01-19
 ---
 <p>People notice quite frequently that I am always wearing shorts. Especially recently, I have been challenged on my intentions, and I guess I owe an explanation.<br />
 	<br />

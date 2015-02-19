@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Teaching
-created: 1296416640
+created: 2011-01-30
 ---
 <p>In preparing to become a mathematics teacher, there is a barefaced obvious connection between the principle of teaching and being an effective teacher. In the journal article <span style="font-style:italic;"><a href="http://www.nctm.org/standards/content.aspx?id=3442">The Teaching Principle</a></span> published by the National Council of Teachers of Mathematics, some important peer-reviewed points about the principle of teaching are pointed out. These points are, namely, a teachers role in fostering an effective learning environment, the determining of mathematical goals, and being flexible to student input.</p>
 <div>

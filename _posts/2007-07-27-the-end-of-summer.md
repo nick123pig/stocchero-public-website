@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The End of Summer
-created: 1185502020
+created: 2007-07-27
 ---
 <p>Bah its been forever.<br />
 	- I won a free trip to Las Vegas and 5000 bucks for school<br />

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reasoning and Proof in the Middle School
-created: 1296536400
+created: 2011-02-01
 ---
 <p>I looked at the reasoning and proof process standard for grades 6-8. Students should be gaining basic mathematical knowledge such as examining patterns, forming conjectures about regularities, evaluate conjectures, and constructing and evaluating mathematical arguments.</p>
 <div>

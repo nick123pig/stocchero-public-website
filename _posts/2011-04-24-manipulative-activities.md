@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manipulative Activities
-created: 1303621680
+created: 2011-04-24
 ---
 <p>Educators know that students deepen their understanding while using manipulatives because they have to represent the mathematics using the manipulatives. Teachers can ask guiding questions as to how the manipulatives represent the mathematics behind it. For example, you can ask a student how holding up a mirror represents a reflection transformation. Teachers can informally assess whether or not students translate their skills from manipulatives to other situations. Teachers can do this in the many ways that they feel comfortable informally assessing.<br />
 	<br />

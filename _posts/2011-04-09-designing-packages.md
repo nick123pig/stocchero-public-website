@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Designing Packages
-created: 1302382260
+created: 2011-04-09
 ---
 <div>
 	<a href="http://www.mmmproject.org/dp/mainframe.htm">Connected Math Project: Designing Packages</a></div>

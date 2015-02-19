@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Car Commercials
-created: 1166589960
+created: 2006-12-20
 ---
 <p>As I sit here during this incredibly long commercial break, I beg to ask the question: When is it NOT a good time to buy a car? I do not believe that there is EVER not a sale for a car? People ask, &quot;When is the best time to buy a car&quot; and the answer is RIGHT NOW! From Employee Pricing, to Honda Days, to Free Guitars, to Year-End Events, to the Red Tag Event, WHEN DOES THE MADNESS STOP! The Day I die is the day when there is not a sale/gimmick going on at a car dealership.<br />
 	<br />

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Student interactions in technology-rich classrooms
-created: 1297143960
+created: 2011-02-08
 ---
 <div>
 	<div>

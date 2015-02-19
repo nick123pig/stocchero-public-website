@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Mathematics Do High School Teachers Need to Know?
-created: 1296418500
+created: 2011-01-30
 ---
 <div>
 	<div>
