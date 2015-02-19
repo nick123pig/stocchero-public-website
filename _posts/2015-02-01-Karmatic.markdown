@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2015-02-01
+img: karmatic.png
+client_url: http://static.stocchero.net/karmatic-public-website/
+client_url_display: karmatic.co
+alt: karmatic.png
+project-date: Winter 2015
+client: Karmatic, LLC
+category: Web Development
+description: Served as development for Karmatic, a social network revolved around license plates
+---

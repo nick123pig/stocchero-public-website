@@ -40,12 +40,14 @@ social:
     url: https://www.youtube.com/user/nick123pig/videos
 
 # Postal address (add as many lines as necessary)
+# https://propublica.github.io/stateface/ for state letters
 address:
-  - line: "Birth - 2007: Naperville, IL"
-  - line: "2007 - 2012: Peoria, IL"
-  - line: "2012 - 2013: Madison, WI"
-  - line: "2013 - Present: Washington, DC"
-
+  - line: "Naperville & Peoria"
+    state: N
+  - line: "Madison"
+    state: v
+  - line: "Washington"
+    state: y
 
 # Build settings
 markdown: kramdown
