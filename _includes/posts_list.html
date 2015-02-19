@@ -3,13 +3,33 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1>Blog Posts</h1>
-                <ul>
-                    {% for post in site.posts  %}
-                        {% if post.layout == 'post'  %}
-                            <li> <a href="{{ post.url }}">{{ post.title }}</a> </li> 
+                    {% assign grouped_posts = site.posts | group_by: "layout" %}
+
+                    {% for group in grouped_posts %}
+                        {% if group.name == 'post' %}
+                            {% for post in group.items %}
+                                {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+                                {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+
+                                {% if forloop.first %}
+                                <h4 id="{{ this_year }}-ref">{{this_year}}</h4>
+                                <ul>
+                                {% endif %}
+
+                                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+
+                                {% if forloop.last %}
+                                </ul>
+                                {% else %}
+                                    {% if this_year != next_year %}
+                                    </ul>
+                                    <h4 id="{{ next_year }}-ref">{{next_year}}</h4>
+                                    <ul>
+                                    {% endif %}
+                                {% endif %}
+                            {% endfor %}
                         {% endif %}
-                    {% endfor %}
-                </ul>
+                    {% endfor %} 
             </div>
         </div>
     </div>
