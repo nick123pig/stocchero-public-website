@@ -1,0 +1,52 @@
+# Site settings
+title: Nick Stocchero
+email: nick@stocchero.net
+url: https://example.github.io
+description: "Welcome to Nick Stocchero's home on the internet"
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Nick Stocchero
+  location: Born/Built In
+  social: Around the Web
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/nick123pig
+  - title: facebook
+    url: http://facebook.com/nick123pig
+  - title: github
+    url: http://github.com/nick123pig
+  - title: google-plus
+    url: https://plus.google.com/+NickStocchero
+  - title: reddit
+    url: https://reddit.com/u/nick123pig
+  - title: instagram
+    url: http://instagram.com/nick123pig/
+  - title: linkedin
+    url: https://www.linkedin.com/in/nickstocchero
+  - title: question
+    url: https://www.quora.com/Nick-Stocchero
+  - title: youtube
+    url: https://www.youtube.com/user/nick123pig/videos
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: "Birth - 2007: Naperville, IL"
+  - line: "2007 - 2012: Peoria, IL"
+  - line: "2012 - 2013: Madison, WI"
+  - line: "2013 - Present: Washington, DC"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty

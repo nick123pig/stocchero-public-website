@@ -1,0 +1,6 @@
+---
+layout: post
+title: Nothing Good Comes Easy
+created: 1164686520
+---
+<p>So it was 2nd period, and I was doing a physics worksheet. The kid next to me was copying another student. I asked him why he was copying. He told me because it&#39;s easier. So, after that moment, I could no longer concentrate on my stupid physics worksheet. Is easier always better? In the case of this student, it was. But I got to thinking. When I think, there is no stopping me. So I came up with this purely hypothetical situation. Let&#39;s say you were raking leaves in the year 2030. Your neighbor just bought a magic leaf raking solution, and he presses a button and all of his leaves are gone in a second. You are still using the old quote-on-quote &quot;rake&quot; method. His method was obviously easier, but was it better? <span style="font-weight: bold;">NO!</span> You, rake in hand, are taking in the value of hard work! You are learning how to manage your time. You are becoming more physically fit, more connected with nature, more appreciative of your surrounding, more accepting of landscapers, and becoming more healthy (breathing fresh air!). Your neighbor is missing out on all these great things while he sits and surfs the internet in his lazy chair. You put me in this situation, and I will run to the rake all the time. Easier is not better! Nothing good comes easy!</p>

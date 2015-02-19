@@ -1,0 +1,14 @@
+---
+layout: post
+title: On Happiness
+created: 1215828360
+---
+<p><span style="font-weight: bold;">Is happiness living in the moment with dignity?</span>Many people could debate the meaning of happiness. Some people could argue that money is the root of all happiness, and I know quite a few people who believe that. Some could argue that selfless volunteerism is their ideal happiness. Some people could argue, as the question suggests, that happiness is living in the moment with dignity.<br />
+	<br />
+	The problem is, different things make different people happy. There is not one thing that will make every single person happy. The thing that makes me the happiest is helping others; I could care less about anything else. One of my friends is happiest when he is wins or is better at something than everything else. Another person absolutely hates volunteering, and cringes at the word.<br />
+	<br />
+	During my writing of this post, I thought &quot;What if alcohol and/or drugs makes you happy?&quot; My best answer to that is happiness should come from within, not from an external source. Because when you don&#39;t have that external object; you are not happy.<br />
+	<br />
+	To the people that aren&#39;t happy: CHANGE IT! It kills me to see sad and unhappy people just moping around. It&#39;s important to take happiness from simple things. Even life itself should burst some happiness bubbles inside you.<br />
+	<br />
+	To sum it up, there is no definition for happiness - It&#39;s up to you to choose it!</p>
