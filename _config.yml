@@ -50,5 +50,5 @@ address:
     state: y
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
