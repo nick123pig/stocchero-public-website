@@ -9,14 +9,9 @@
         </div>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <button class="btn btn-outline">Bradley University, Bachelors of Science</button>
-                <button class="btn btn-outline">Mathematics Major</button>
-                <button class="btn btn-outline">Certified High School Math Teacher</button>
-                <button class="btn btn-outline">CompTIA A+ Certified</button>
-                <button class="btn btn-outline">CompTIA Network+ Certified</button>
-                <button class="btn btn-outline">Private Pilot</button>
-                <button class="btn btn-outline">Napervillian</button>
-                <button class="btn btn-outline">White Sox/Blackhawks/Bulls/Bears Fan</button>
+                {% for thing in site.about %}
+                    <button class="btn btn-outline">{{thing.item}}</button>
+                {% endfor %}
             </div>
         </div>
         <div class="row">&nbsp;</div><div class="row">&nbsp;</div>
@@ -28,25 +23,9 @@
         </div>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <button class="btn btn-outline">Statistics/Data Science</button>
-                <button class="btn btn-outline">Ruby</button>
-                <button class="btn btn-outline">SQL</button>
-                <button class="btn btn-outline">iOS/Android</button>
-                <button class="btn btn-outline">Git</button>
-                <button class="btn btn-outline">PHP</button>
-                <button class="btn btn-outline">LaTeX</button>
-            </div>
-        </div>
-        <div class="row">&nbsp;</div><div class="row">&nbsp;</div>
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>Resume</h2>
-                <hr class="star-light">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <a href="http://static.stocchero.net/resume/Resume.pdf"><button class="btn btn-outline">Download</button></a>
+                {% for skill in site.skills %}
+                    <button class="btn btn-outline">{{skill.item}}</button>
+                {% endfor %}
             </div>
         </div>
     </section>

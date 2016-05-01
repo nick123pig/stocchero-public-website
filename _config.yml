@@ -3,8 +3,6 @@ title: Nick Stocchero
 email: nick@stocchero.net
 url: https://example.github.io
 description: "Welcome to Nick Stocchero's home on the internet"
-# Contact form: comment the line below if you want to stick with the default PHP contact form
-contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -18,7 +16,30 @@ footer:
   location: Born/Built In
   social: Around the Web
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+skills:
+  - item: Statistics/Data Science
+  - item: Ruby/Rails/Sinatra
+  - item: AWS
+  - item: SQL
+  - item: iOS/Android
+  - item: Devops
+  - item: Git
+  - item: Drupal
+  - item: Chef
+  - item: PHP
+  - item: LaTeX
+
+about:
+  - item: Bradley University, Bachelors of Science
+  - item: Mathematics Major
+  - item: Certified High School Math Teacher
+  - item: Community Volunteer 
+  - item: CompTIA A+ Certified
+  - item: CompTIA Network+ Certified
+  - item: Private Pilot
+  - item: Napervillian
+  - item: White Sox/Blackhawks/Bulls/Bears Fan
+
 social:
   - title: twitter
     url: http://twitter.com/nick123pig
@@ -39,8 +60,6 @@ social:
   - title: youtube
     url: https://www.youtube.com/user/nick123pig/videos
 
-# Postal address (add as many lines as necessary)
-# https://propublica.github.io/stateface/ for state letters
 address:
   - line: "Naperville & Peoria"
     state: N
