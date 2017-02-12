@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2017-02-12
+img: buleen.png
+client_url: http://www.buleen.com
+client_url_display: buleen.com
+alt: buleen.png
+project-date: January 2017
+category: Web Development
+description: Create your very own viral webpage with buleen
+---

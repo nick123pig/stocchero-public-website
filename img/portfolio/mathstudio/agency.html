@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Math Studio - Innovative Solutions for Math Professionals</title>
+<link rel="stylesheet" href="grid.css" type="text/css" />
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<link rel="stylesheet" href="hover.css" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="swfobject.js"></script>
+<script type="text/javascript" src="hover.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="wrapper">
+<div class="container_12" id="container">
+
+<div id="header">
+	<div class="grid_5 alpha" id="logo"><img src="logo.png" alt="logo" /></div>
+	<div class="grid_7 omega" id="navigation">
+	<![if !IE]>
+	<ul class="cbdb-menu">
+ 	 <li><a href="#" class="transparent dark">Home</a> </li>
+ 	 <li><a href="#" class="transparent dark">Solutions</a></li>
+ 	 <li><a href="#" class="transparent dark">Clients</a></li>
+ 	 <li><a href="#" class="transparent dark">About</a></li>
+	</ul>
+	<![endif]>
+	<!--[if IE]>
+		<a href="#"><img border=0 src="ie_nav.png" alt="navigation" id="ienavbar" /></a>
+	<![endif]-->
+	</div>
+</div>
+
+
+<div class="grid_12 alpha" id="tagline">
+    <script type="text/javascript">
+    var flashvars = {},
+	params = {wmode:"transparent"},
+	attributes = {};
+    swfobject.embedSWF("banner.swf", "quotetext", "960", "135", "10.0.0" ,"/swf/expressInstall.swf", flashvars, params, attributes);
+    </script>
+<div id="quotetext" >
+Focus on Teaching Math
+</div>
+<script type="text/javascript" >
+var myquotes = new Array(
+        'Focus on Teaching Math',
+        'A Magical Teaching Tool',
+        'Students Can\'t Fall Behind' // Leave the last quote without a comma at the end
+        );
+ 
+function rotatequote()
+{
+        thequote = myquotes.shift(); //Pull the top one
+        myquotes.push(thequote); //And add it back to the end
+       
+        document.getElementById('quotetext').innerHTML = thequote;
+        // This rotates the quote every 10 seconds.
+        // Replace 10000 with (the number of seconds you want) * 1000
+        t=setTimeout("rotatequote()",10000);
+}
+ 
+// Start the first rotation.
+rotatequote();
+</script> 
+
+</div>
+
+
+<div class="grid_12 alpha" id="mission"> Math Studio provides expert consulting and digital course management solutions to supplement high-school mathematics classes. </div> 
+
+<div class="grid_12 alpha divider"><hr /></div>
+
+	<div class="grid_4 alpha" id="soln1"><h2>Course Management</h2>
+	<![if !IE]>
+		<div class="view view-first">
+			<img src="soln1.png" alt="solution" />
+			<div class="mask">
+			<h2>Course Management</h2>
+			<p>A State of the Art Course Management system that was built to be flexible and aware of the needs of high school math teachers</p>
+			<a class="info" href="#">Read More</a>
+			</div>
+		</div>
+	<![endif]>
+	<!--[if IE]>
+		<div class="ie-soln1"></div>
+	<![endif]-->
+	</div>
+	<div class="grid_4" id="soln2"><h2>Expert Consulting</h2>
+	<![if !IE]>
+	<div class="view view-first">
+			<img src="soln2.png" alt="solution" />
+			<div class="mask">
+			<h2>Expert Consulting</h2>
+			<p>We offer world class consulting to teachers and administrators on everything math related</p>
+			<a class="info" href="#">Read More</a>
+			</div>
+		</div>
+	<![endif]>
+	<!--[if IE]>
+		<div class="ie-soln2"></div>
+	<![endif]-->
+	</div>
+	<div class="grid_4 omega" id="soln3"><h2>Online Library</h2>
+	<![if !IE]>
+	<div class="view view-first">
+			<img src="soln3.png" alt="solution" />
+			<div class="mask">
+			<h2>Online Library</h2>
+			<p>We offer a comprehensive online mathematics library for students that covers every topic from arithmetic to calculus</p>
+			<a class="info" href="#">Read More</a>
+			</div>
+		</div>
+	<![endif]>
+	<!--[if IE]>
+		<div class="ie-soln3"></div>
+	<![endif]-->
+	</div>
+
+<div class="grid_12 alpha divider"><hr /></div>
+
+	<div class="grid_6 alpha" id="clients"><h2>Clients</h2>
+	<img src="client1.png" alt="Bradley University" class="clientphoto" id="client1" /><img src="client2.png" alt="Naperville 203" class="clientphoto" /></div>
+	<div class="grid_6 omega" id="testimony"><h2>Testimony</h2>
+	<div id="quote"><p>"The technical knowledge and mathematical expertise that MathStudio provided our district was second to none. The friendly staff and helpful web applications propelled our students into the top 5% of the state in mathematics standardized testing."</p></div>
+	<div id="quoteattrib"><h3>- Ron Johnson</h3> <h4>Superintendent, Naperville School District 203</h4></div>
+	</div>
+
+<div class="grid_12 alpha divider"><hr /></div>
+
+<div class="grid_6 alpha" id="footer"><img src="small_logo.png" alt="logo" class="copyright" />&copy; 2011 Math Studio &amp; Nick Stocchero. All rights reserved.</div>
+</div>
+</div>
+</body>
+</html>
