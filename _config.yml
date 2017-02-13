@@ -6,11 +6,10 @@ description: "Welcome to Nick Stocchero's home on the internet"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 03A9F4 #80B3FF
+  primary: 03A9F4 
   primary-rgb: rgba(3,169,244,.8)
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-
+  secondary: 2c3e50 
+  secondary-dark: 233140
 
 # Footer settings
 footer:
