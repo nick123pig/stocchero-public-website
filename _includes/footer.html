@@ -6,8 +6,8 @@
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.location }}</h3>
                         <p class="address">
-                            {% for adress in site.address %}
-                                {{ adress.line }} <span class="state">{{ adress.state }}</span><br>
+                            {% for address in site.address %}
+                                {{ address.line }} <span class="state">{{ address.state }}</span><br>
 		                    {% endfor %}
                         </p>
                     </div>

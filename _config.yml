@@ -18,18 +18,26 @@ footer:
   social: Around the Web
 
 skills:
-  - item: Statistics/Data Science
+  - item: React
   - item: Node.js
+  - item: Webpack
+  - item: Java
+  - item: Docker
+  - item: Maven
+  - item: Machine Learning
+  - item: Blockchain
+  - item: Accumulo
+  - item: Statistics/Data Science
   - item: Serverless
   - item: Big Data
   - item: Ruby/Rails/Sinatra
   - item: AWS
   - item: SQL
-  - item: iOS/Android
   - item: Devops
-  - item: Internet of Things
+  - item: IoT
   - item: Git
   - item: Drupal
+  - item: Wordpress
   - item: Chef
   - item: PHP
   - item: LaTeX
@@ -67,12 +75,14 @@ social:
     url: https://www.youtube.com/user/nick123pig/videos
 
 address:
-  - line: "Naperville & Peoria"
-    state: N
-  - line: "Madison"
-    state: v
+  - line: "Denver"
+    state: F
   - line: "Washington"
     state: y
+  - line: "Madison"
+    state: v
+  - line: "Naperville & Peoria"
+    state: N
 
 # Build settings
 markdown: redcarpet
