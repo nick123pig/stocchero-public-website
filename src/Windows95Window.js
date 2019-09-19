@@ -143,15 +143,12 @@ function Windows95Window(props) {
                 <Fieldset label="About" style={{ marginBottom: 12 }}>
                   <List inline={true} className={props.classes.list}>
                     <ListItem size="sm">Bradley University</ListItem>
-                    <ListItem size="sm">Bachelors of Science</ListItem>
                     <ListItem size="sm">Mathematics Major</ListItem>
                     <ListItem size="sm">High School Math Teacher</ListItem>
                     <ListItem size="sm">Community Volunteer </ListItem>
-                    <ListItem size="sm">CompTIA A+ Certified</ListItem>
-                    <ListItem size="sm">CompTIA Network+ Certified</ListItem>
+                    <ListItem size="sm">CompTIA A+/Network+ Certified</ListItem>
                     <ListItem size="sm">Private Pilot</ListItem>
                     <ListItem size="sm">Napervillian</ListItem>
-                    <ListItem size="sm">Die hard White Sox Fan</ListItem>
                   </List>
                 </Fieldset>
                 <Fieldset label="Skills">

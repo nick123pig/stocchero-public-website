@@ -20,6 +20,10 @@ import HTML5Backend from "react-dnd-html5-backend"
 import { withStyles } from "@material-ui/core/styles"
 
 import LogoIcon from "@material-ui/icons/Public"
+import ReactGA from "react-ga"
+
+ReactGA.initialize("UA-12882435-7")
+ReactGA.pageview("/")
 
 const ResetStyles = createGlobalStyle`
   ${reset}
