@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="shortcut icon" href="/portfolio/tastyhire/assets/ico/favicon.ico">
+
+  <title>Tasty Hire - Thanks</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="/portfolio/tastyhire/assets/css/bootstrap.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="/portfolio/tastyhire/assets/css/style.css" rel="stylesheet">
+  <link href="/portfolio/tastyhire/assets/css/font-awesome.min.css" rel="stylesheet">
+  <link href="/portfolio/tastyhire/assets/css/bootstrap-switch.min.css" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100' rel='stylesheet' type='text/css'>
+
+  <!-- Custom CSS -->
+  <!-- <link rel="stylesheet" href="/portfolio/tastyhire/css/main.css"> -->
+
+  <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/portfolio/tastyhire/assets/js/bootstrap.min.js"></script>
+<script src="/portfolio/tastyhire/assets/js/bootstrap-switch.min.js"></script>
+<script src="/portfolio/tastyhire/assets/js/jquery.hoverdir.js"></script>
+<script src="/portfolio/tastyhire/assets/js/jquery.hoverex.min.js"></script>
+<script src="/portfolio/tastyhire/assets/js/jquery.prettyPhoto.js"></script>
+<script src="/portfolio/tastyhire/assets/js/jquery.isotope.min.js"></script>
+<script src="/portfolio/tastyhire/assets/js/custom.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76147990-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<script>
+	$(document).ready(function() {
+		if ( $("#pricing-selector") ){
+			$("#employer-pricing").hide();
+			$("#pricing-selector").tooltip('show');
+			$("#pricing-selector").bootstrapSwitch({labelText:"<strong>Pricing</strong>",
+																							onText: "Job Seeker",
+																							offText:"Employer",
+																							size: "large",
+																							onColor: "success",
+																							offColor: "success",
+																							onSwitchChange: switchPricingContent});
+		}
+
+    if ( $("#movie-reel-replacement") ){
+      $('#movie-reel-replacement').carousel({interval: 1500, pause: null, keyboard: false });
+    }
+    if ( $("#carousel-clients") ){
+      $('#carousel-clients').carousel({interval: 5000, pause: true});
+    }
+
+		function switchPricingContent(){
+			$("#job-seeker-pricing").toggle();
+			$("#employer-pricing").toggle();
+		}
+
+	});
+</script>
+
+  <body>
+    <!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="/portfolio/tastyhire/">
+        <img class="img-responsive" src="/portfolio/tastyhire/assets/img/logo_small.png" alt="Tasty Hire Logo">
+      </a>
+    </div>
+    <div class="navbar-collapse collapse navbar-right">
+      <ul class="nav navbar-nav">
+        <li ><a href="/portfolio/tastyhire/">HOME</a></li>
+        <li ><a href="/portfolio/tastyhire/tour/">PRODUCT TOUR</a></li>
+        <li ><a href="/portfolio/tastyhire/pricing/">PRICING</a></li>
+        <li ><a href="/portfolio/tastyhire/about/">ABOUT</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+    <div id="blue">
+    <div class="container">
+        <div class="row">
+            <h3>Thanks</h3>
+        </div><!-- /row -->
+    </div> <!-- /container -->
+</div><!-- /blue -->   
+
+<div class="container mtb">
+    <div class="row">
+    <h3>Thanks! We'll be in contact shortly!</h3>
+    </div>
+</div>
+
+    <div id="footerwrap">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4">
+        <h4>About</h4>
+        <div class="hline-w"></div>
+        <p>Tasty Hire brings the first impression to the forefront of the hiring process. The app empowers hiring managers to rapidly browse short videos of job applicants. Tasty Hire is the most efficient way to find the right candidate at fractions of the cost of other solutions.</p>
+        <p>&copy; 2016 - Highrd, Inc. All Rights Reserved.</p>
+      </div>
+      <div class="col-lg-4">
+        <h4>Follow Us</h4>
+        <div class="hline-w"></div>
+        <p>
+          
+          <a href="https://facebook.com/tastyhire" class="btn-social btn-outline"><i class="fa fa-facebook"></i></a>
+          
+          <a href="https://twitter.com/tastyhire" class="btn-social btn-outline"><i class="fa fa-twitter"></i></a>
+          
+          <a href="https://www.instagram.com/tastyhire/" class="btn-social btn-outline"><i class="fa fa-instagram"></i></a>
+          
+          <a href="https://medium.com/@tastyhire" class="btn-social btn-outline"><i class="fa fa-medium"></i></a>
+          
+          <a href="https://www.linkedin.com/company/tasty-hire" class="btn-social btn-outline"><i class="fa fa-linkedin-square"></i></a>
+          
+        </p>
+      </div>
+      <div class="col-lg-4">
+        <h4>Contact Us</h4>
+        <div class="hline-w"></div>
+
+        <p>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </body>
+</html>

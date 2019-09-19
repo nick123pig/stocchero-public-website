@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="shortcut icon" href="/portfolio/tastyhire/assets/ico/favicon.ico">
+
+  <title>Tasty Hire - Pricing</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="/portfolio/tastyhire/assets/css/bootstrap.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="/portfolio/tastyhire/assets/css/style.css" rel="stylesheet">
+  <link href="/portfolio/tastyhire/assets/css/font-awesome.min.css" rel="stylesheet">
+  <link href="/portfolio/tastyhire/assets/css/bootstrap-switch.min.css" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100' rel='stylesheet' type='text/css'>
+
+  <!-- Custom CSS -->
+  <!-- <link rel="stylesheet" href="/portfolio/tastyhire/css/main.css"> -->
+
+  <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/portfolio/tastyhire/assets/js/bootstrap.min.js"></script>
+<script src="/portfolio/tastyhire/assets/js/bootstrap-switch.min.js"></script>
+<script src="/portfolio/tastyhire/assets/js/jquery.hoverdir.js"></script>
+<script src="/portfolio/tastyhire/assets/js/jquery.hoverex.min.js"></script>
+<script src="/portfolio/tastyhire/assets/js/jquery.prettyPhoto.js"></script>
+<script src="/portfolio/tastyhire/assets/js/jquery.isotope.min.js"></script>
+<script src="/portfolio/tastyhire/assets/js/custom.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76147990-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<script>
+	$(document).ready(function() {
+		if ( $("#pricing-selector") ){
+			$("#employer-pricing").hide();
+			$("#pricing-selector").tooltip('show');
+			$("#pricing-selector").bootstrapSwitch({labelText:"<strong>Pricing</strong>",
+																							onText: "Job Seeker",
+																							offText:"Employer",
+																							size: "large",
+																							onColor: "success",
+																							offColor: "success",
+																							onSwitchChange: switchPricingContent});
+		}
+
+    if ( $("#movie-reel-replacement") ){
+      $('#movie-reel-replacement').carousel({interval: 1500, pause: null, keyboard: false });
+    }
+    if ( $("#carousel-clients") ){
+      $('#carousel-clients').carousel({interval: 5000, pause: true});
+    }
+
+		function switchPricingContent(){
+			$("#job-seeker-pricing").toggle();
+			$("#employer-pricing").toggle();
+		}
+
+	});
+</script>
+
+  <body>
+    <!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="/portfolio/tastyhire/">
+        <img class="img-responsive" src="/portfolio/tastyhire/assets/img/logo_small.png" alt="Tasty Hire Logo">
+      </a>
+    </div>
+    <div class="navbar-collapse collapse navbar-right">
+      <ul class="nav navbar-nav">
+        <li ><a href="/portfolio/tastyhire/">HOME</a></li>
+        <li ><a href="/portfolio/tastyhire/tour/">PRODUCT TOUR</a></li>
+        <li ><a href="/portfolio/tastyhire/pricing/">PRICING</a></li>
+        <li ><a href="/portfolio/tastyhire/about/">ABOUT</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+    <div id="blue">
+    <div class="container">
+        <div class="row">
+            <h3>Pricing</h3>
+        </div><!-- /row -->
+    </div> <!-- /container -->
+</div><!-- /blue -->
+
+
+
+<section class="container">
+  <div class="row text-center">
+    <div class="col-md-4 col-md-offset-4 text-center"><input type="checkbox" id="pricing-selector" checked data-toggle="tooltip" data-placement="top" title="Switch between job seeker and employer pricing by flipping the switch"></div>
+    <br /><br /><br />
+  </div>
+
+  <div class="row" id="job-seeker-pricing">
+  
+    <div class="col-md-6">
+      <div class="panel panel-primary">
+       <div class="panel-heading"><h3 class="text-center" style="margin:0px">Tasty Profile</h3></div>
+       <div class="panel-body text-center">
+         <p class="pink-text" style="font-size:40px"><strong>Free</strong></p>
+       </div>
+       <ul class="list-group list-group-flush text-center">
+          
+            <li class="list-group-item">
+              <h4>Curate your first impression</h4>
+              <p>Create a 30 second introduction video</p>
+            </li>
+          
+            <li class="list-group-item">
+              <h4>Upload your resume</h4>
+              <p>Give your potential employer everything they need</p>
+            </li>
+          
+            <li class="list-group-item">
+              <h4>Connect right away with employers who liked your video</h4>
+              <p>Every employer will have immediate access to your profile</p>
+            </li>
+          
+       </ul>
+       <div class="panel-footer">
+         <a class="btn btn-lg btn-block btn-success" href="https://app.tastyhire.com">SIGN UP</a>
+      </div>
+      </div>
+    </div>
+  
+    <div class="col-md-6">
+      <div class="panel panel-primary">
+       <div class="panel-heading"><h3 class="text-center" style="margin:0px">Tastier Profile</h3></div>
+       <div class="panel-body text-center">
+         <p class="pink-text" style="font-size:40px"><strong>$4.99 / month</strong></p>
+       </div>
+       <ul class="list-group list-group-flush text-center">
+          
+            <li class="list-group-item">
+              <h4>All features from the Tasty Profile</h4>
+              <p>Upload video, resume, and communicate with employers</p>
+            </li>
+          
+            <li class="list-group-item">
+              <h4>Better Insight</h4>
+              <p>See who's watching your video and how many job seekers you're up against</p>
+            </li>
+          
+            <li class="list-group-item">
+              <h4>Discover new hiring trends</h4>
+              <p>See the current demand for the position you’re after</p>
+            </li>
+          
+       </ul>
+       <div class="panel-footer">
+         <a class="btn btn-lg btn-block btn-success" href="https://app.tastyhire.com">SIGN UP</a>
+      </div>
+      </div>
+    </div>
+  
+  </div>
+
+ <div class="row" id="employer-pricing">
+  
+    <div class="col-md-12">
+      <div class="panel panel-primary">
+       <div class="panel-heading"><h3 class="text-center" style="margin:0px">A "Round"</h3></div>
+       <div class="panel-body text-center">
+         <p class="pink-text" style="font-size:40px"><strong>$499.99 / 500 credits</strong></p>
+       </div>
+       <ul class="list-group list-group-flush text-center">
+          
+            <li class="list-group-item">
+              <h4>Post your job openings by location, job type, and education level</h4>
+            </li>
+          
+            <li class="list-group-item">
+              <h4>Browse candidate profiles, introduction videos, and resumes</h4>
+            </li>
+          
+            <li class="list-group-item">
+              <h4>Send messages to candidates you like</h4>
+            </li>
+          
+            <li class="list-group-item">
+              <h4>Track progress throughout the hiring process</h4>
+            </li>
+          
+       </ul>
+       <div class="panel-footer">
+         <a class="btn btn-lg btn-block btn-success" href="https://app.tastyhire.com">SIGN UP</a>
+      </div>
+      </div>
+    </div>
+  
+  </div>
+
+
+</section>
+
+
+
+
+
+
+<!-- 
+    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+      <div class="panel panel-theme">
+        <div class="panel-heading" role="tab" id="headingOne" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          <h3 class="text-center">
+            PRICING FOR JOB SEEKERS
+          </h3>
+        </div>
+        <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+          <div class="panel-body">
+            
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-theme">
+        <div class="panel-heading" role="tab" id="headingTwo" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <h3 class="text-center">
+            PRICING FOR COMPANIES
+          </h3>
+        </div>
+        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+          <div class="panel-body">
+            <div class="row list-group">
+              
+            </div>
+            <div class="row">
+              <div class="list-group col-md-6 col-md-offset-3">
+                <h4 class="list-group-item-heading">Features for all plans:</h4>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->
+
+
+    <div id="footerwrap">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4">
+        <h4>About</h4>
+        <div class="hline-w"></div>
+        <p>Tasty Hire brings the first impression to the forefront of the hiring process. The app empowers hiring managers to rapidly browse short videos of job applicants. Tasty Hire is the most efficient way to find the right candidate at fractions of the cost of other solutions.</p>
+        <p>&copy; 2016 - Highrd, Inc. All Rights Reserved.</p>
+      </div>
+      <div class="col-lg-4">
+        <h4>Follow Us</h4>
+        <div class="hline-w"></div>
+        <p>
+          
+          <a href="https://facebook.com/tastyhire" class="btn-social btn-outline"><i class="fa fa-facebook"></i></a>
+          
+          <a href="https://twitter.com/tastyhire" class="btn-social btn-outline"><i class="fa fa-twitter"></i></a>
+          
+          <a href="https://www.instagram.com/tastyhire/" class="btn-social btn-outline"><i class="fa fa-instagram"></i></a>
+          
+          <a href="https://medium.com/@tastyhire" class="btn-social btn-outline"><i class="fa fa-medium"></i></a>
+          
+          <a href="https://www.linkedin.com/company/tasty-hire" class="btn-social btn-outline"><i class="fa fa-linkedin-square"></i></a>
+          
+        </p>
+      </div>
+      <div class="col-lg-4">
+        <h4>Contact Us</h4>
+        <div class="hline-w"></div>
+
+        <p>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </body>
+</html>
