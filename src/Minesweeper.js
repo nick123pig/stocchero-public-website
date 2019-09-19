@@ -55,7 +55,7 @@ function PortfolioItem(props) {
             justifyContent: "space-between"
           }}
         >
-          <span>👗 minesweeer.exe</span>
+          <span>💣 minesweeper.exe</span>
           <Button
             style={{ marginRight: "-6px", marginTop: "1px" }}
             size={"sm"}
