@@ -2,6 +2,7 @@ import React from "react"
 import { useDrop } from "react-dnd"
 import Windows95Window from "./Windows95Window"
 import PortfolioItem from "./PortfolioItem"
+import Minesweeper from "./Minesweeper"
 import update from "immutability-helper"
 
 const styles = {
@@ -35,23 +36,39 @@ const Container = ({ windows, setWindows, changeWindow }) => {
 
   return (
     <div ref={drop} style={styles}>
-      {Object.keys(windows).map(key =>
-        key === "main" ? (
-          <Windows95Window
-            key={key}
-            id={key}
-            item={windows[key]}
-            changeWindow={changeWindow}
-          />
-        ) : (
-          <PortfolioItem
-            key={key}
-            id={key}
-            item={windows[key]}
-            changeWindow={changeWindow}
-          />
-        )
-      )}
+      {Object.keys(windows).map(key => {
+        if (key === "main")
+          return (
+            <Windows95Window
+              key={key}
+              id={key}
+              item={windows[key]}
+              changeWindow={changeWindow}
+            />
+          )
+
+        if (key === "portfolio")
+          return (
+            <PortfolioItem
+              key={key}
+              id={key}
+              item={windows[key]}
+              changeWindow={changeWindow}
+            />
+          )
+
+        if (key === "minesweeper")
+          return (
+            <Minesweeper
+              key={key}
+              id={key}
+              item={windows[key]}
+              changeWindow={changeWindow}
+            />
+          )
+
+        return null
+      })}
     </div>
   )
 }
