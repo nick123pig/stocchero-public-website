@@ -18,6 +18,9 @@
     "styled-components": "^4.3.2",
     "superagent": "^5.1.0"
   },
+  "resolutions": {
+    "immer": "^9"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
